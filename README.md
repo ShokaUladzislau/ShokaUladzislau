@@ -12,14 +12,10 @@ I'm Uladzislau, a Java and Kotlin Android developer. Before starting my career a
 - ⚙️ Building RESTful APIs
 - 🛠️ Using Android Architecture Components
 
-## How to Reach Me
-
-- LinkedIn: [linkedin.com/in/uladzislau-shoka](https://www.linkedin.com/in/uladzislau-shoka/)
-
 ## Hobbies
 
 When I'm not coding, you can find me:
-- 🌐 Learning new languages ( I speak 🇺🇸, 🇵🇱, 🇷🇺. )
+- 🌐 Learning languages ( I speak 🇺🇸, 🇵🇱, 🇷🇺. )
 - 👾 Playing retro games
 - 🔉 Listening to music
 
