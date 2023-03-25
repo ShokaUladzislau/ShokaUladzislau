@@ -31,4 +31,4 @@ When I'm not coding, you can find me:
 
 Here are some of the projects I've worked on:
 - 📒 [MyNotes Android App](https://github.com/ShokaUladzislau/MyNotes) - An Android notes app that helps users to create, organize, and access notes on-the-go.
-- 📈 [Java Graph Algorithms Visualizer](https://github.com/ShokaUladzislau/Graph-Algorithms-Visualizer) - Software tool that allows users to visualize and interact with graph algorithms in real-time.
+- 📈 [Java Graph Algorithms Visualizer](https://github.com/ShokaUladzislau/Graph-Algorithms-Visualizer) - Software tool to visualize and interact with graph algorithms in real-time.
