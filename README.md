@@ -4,11 +4,7 @@ Hi there 👋
 
 I'm Uladzislau, a Java and Kotlin Android developer. Before starting my career as a developer, I worked as a QA engineer. I'm passionate about creating high-quality products that solve real-world problems.
 
-## What I'm Currently Learning
-
-I'm currently learning about Jetpack Compose and how it can be used to create beautiful and responsive UIs for Android apps.
-
-## Ask Me About
+## Tools
 
 - 📱 Kotlin
 - ☕ Java
@@ -23,7 +19,7 @@ I'm currently learning about Jetpack Compose and how it can be used to create be
 ## Hobbies
 
 When I'm not coding, you can find me:
-- 🌐 Learning new languages ( I speak 🇺🇸, 🇵🇱, 🇷🇺. Now Learn 🇩🇪 )
+- 🌐 Learning new languages ( I speak 🇺🇸, 🇵🇱, 🇷🇺. )
 - 👾 Playing retro games
 - 🔉 Listening to music
 
