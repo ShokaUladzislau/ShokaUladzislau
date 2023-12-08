@@ -2,7 +2,7 @@
 
 Hi there 👋
 
-I'm Uladzislau, a Java and Kotlin Android developer. Before starting my career as a developer, I worked as a QA engineer. I'm passionate about creating high-quality products that solve real-world problems.
+I'm Uladzislau, a Flutter developer. Before starting my career as a developer, I worked as a QA engineer. I'm passionate about creating high-quality products that solve real-world problems.
 
 ## Tools
 
