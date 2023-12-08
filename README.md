@@ -6,11 +6,12 @@ I'm Uladzislau, a Java and Kotlin Android developer. Before starting my career a
 
 ## Tools
 
-- 📱 Kotlin
+- 🍃 Flutter
+- 🤖 Kotlin
 - ☕ Java
-- 👨‍💻 Android development
 - ⚙️ Building RESTful APIs
-- 🛠️ Using Android Architecture Components
+- 🔥 FireBase
+- 🐘 PostgreSQL
 
 ## Hobbies
 
@@ -22,5 +23,7 @@ When I'm not coding, you can find me:
 ## Projects
 
 Here are some of the projects I've worked on:
+- 🌦️ [Clima Flutter App](https://github.com/ShokaUladzislau/Clima) - A simple weather application built using Flutter and powered by the OpenWeatherMap API.
+- 🪙 [Coin Ticker](https://github.com/ShokaUladzislau/coin_ticker) - Flutter-based mobile application provides real-time cryptocurrency prices based on [Coin api](https://www.coinapi.io).
 - 📒 [MyNotes Android App](https://github.com/ShokaUladzislau/MyNotes) - An Android notes app that helps users to create, organize, and access notes on-the-go.
 - 📈 [Java Graph Algorithms Visualizer](https://github.com/ShokaUladzislau/Graph-Algorithms-Visualizer) - Software tool to visualize and interact with graph algorithms in real-time.
