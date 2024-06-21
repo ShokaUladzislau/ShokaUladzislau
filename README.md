@@ -1,4 +1,4 @@
-# Uladzislau Shoka
+# Vlad Shoka
 
 Hi there 👋
 
